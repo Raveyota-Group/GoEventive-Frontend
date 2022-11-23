@@ -1,0 +1,39 @@
+.Categories{
+    padding:4% 10%;
+    background-color: rgb(254, 244, 246);
+}
+
+.Categoris_head{
+    width: 30%;
+    margin-bottom: 55px;
+}
+.Categoris_head>h1{
+    font-size: 45px;
+    margin-bottom: 25px;
+
+    font-weight: bolder;
+}
+.Categoris_head>p{
+    word-spacing: 8px;
+    letter-spacing: 2px;
+}
+.categories_body{
+    width:20%;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(6, 1.5fr);
+    gap: 40%;
+}
+.img_box{
+
+}
+.img_box>img{
+    width: 120px;
+    height: 180px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
+.nameOfCategoris{
+    font-family:cursive;
+    font-weight: bold;
+}
