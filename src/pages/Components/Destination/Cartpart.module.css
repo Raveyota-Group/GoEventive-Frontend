@@ -1,0 +1,29 @@
+.pricing{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.pricecolor{
+    color: gray;
+}
+.titel{
+    font-weight: bold;
+    font-size: 21px;
+}
+.cartbutton{
+    border: 2px solid;
+    border-radius: 24px;
+    font-weight: bolder;
+}
+.cartbutton:hover{
+    border: 2px solid;
+    border-radius: 24px;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+}
+.cartpat{
+    margin-bottom: 30px;
+}

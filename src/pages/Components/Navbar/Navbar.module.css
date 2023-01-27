@@ -1,0 +1,34 @@
+.navbarpart{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    background-color: rgb(254, 244, 246);
+}
+.navIcone{
+
+}
+.navIcone>img{
+    width: 100px;
+    height: 45px;
+}
+.navigation{
+
+}
+.navigation>a{
+    padding: 16px 36px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.right_navigation{
+
+}
+
+.right_navigation>button{
+    border-radius: 18px;
+    padding: 10px 15px;
+    font-weight: bold;
+}

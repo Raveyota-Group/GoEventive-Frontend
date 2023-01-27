@@ -1,0 +1,46 @@
+.sendemail{
+    background: rgb(254, 244, 246);
+    padding: 60px 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sendemailpart{
+    text-align: center;
+    width: 92%;
+    padding: 59px 47px;
+    background-color: #ffbfdc;
+    border-radius: 28px;
+}
+.sendemailpart>h1{
+    font-weight: bold;
+    word-spacing: 7px;
+    padding-bottom: 15px;
+
+}
+.sendemailpart>p{
+    word-spacing: 6px;
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0px 22% 14px 22%;
+}
+.inputbox{
+
+}
+
+.inputbox>input{
+    width: 44%;
+    border: none;
+    position: relative;
+    left: 12px;
+    padding: 13px;
+    border-radius: 12px;
+}
+.inputbox > svg{
+    position: relative;
+    right: 31px;
+    cursor: pointer;
+    font-size: 28px;
+    color: #dcacd4;
+}

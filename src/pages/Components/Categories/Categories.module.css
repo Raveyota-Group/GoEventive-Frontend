@@ -22,11 +22,11 @@
     text-align: center;
     display: grid;
     grid-template-columns: repeat(6, 1.5fr);
-    gap: 40%;
+    gap: 35%;
 }
-.img_box{
+/* .img_box{
 
-}
+} */
 .img_box>img{
     width: 120px;
     height: 180px;

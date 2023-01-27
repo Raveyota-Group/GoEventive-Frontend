@@ -1,0 +1,44 @@
+.Destination_header{
+    background: rgb(254, 244, 246);
+    padding: 60px 10%;
+
+}
+.Destination_header_text{
+    padding: 50px 0pc;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.Destination_header_text>h1{
+    width:30%;
+}
+.Destination_header_icon{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.card{
+    margin-bottom: 20px;
+}
+
+.iconbx{
+    width: 6%;
+    font-size: 31px;
+}
+.iconbx svg{
+    cursor: pointer;
+    border: 1px solid gray;
+    margin: 1px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.iconbx svg:hover{
+    background-color: black;
+    color: white;
+}
